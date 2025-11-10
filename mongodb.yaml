@@ -1,5 +1,5 @@
 - name: mongodb
-  hosts: local
+  hosts: mongodb
   become: yes
   roles: 
   - mongodb
