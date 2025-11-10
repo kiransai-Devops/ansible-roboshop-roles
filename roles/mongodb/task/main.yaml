@@ -1,4 +1,4 @@
-- name: copy mongodb
+- name: copy mongo
   ansible.builtin.copy:
      src: mongo.repo
      dest: /etc/yum.repos.d/mongo.repo
@@ -19,5 +19,3 @@
       name: mongod
       state: started
       enabled: yes
-
-      
