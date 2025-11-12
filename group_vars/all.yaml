@@ -1,2 +1,3 @@
 MONGODB_HOST: mongodb.kidevops.shop
 REDIS_HOST: redis.kidevops.shop
+CATALOGUE_HOST: cataalogue.kidevops.shop
