@@ -7,3 +7,6 @@ RABBITMQ_HOST: rabbitmq.kidevops.shop
 PAYMENT_HOST: payment.kidevops.shop
 USER_HOST: user.kidevops.shop
 SHIPPING_HOST: shipping.kidevops.shop
+
+
+
